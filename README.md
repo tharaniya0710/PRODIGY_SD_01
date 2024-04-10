@@ -1,0 +1,2 @@
+Converted temperature between Celsius , Fahrenheit, and Kelvin scales. The program should prompt the user to input a temperature value and the original unit of the measurement. It should then convert the temperature to the other two units and display the converted values to the user. For example ,if the user enters a temperature of 25 degrees Celsius , the program should covert it to Fahrenheit and kelvin , and present the converted values as outputs.
+
